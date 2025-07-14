@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "first_name": "Polanco",
+      "last_name": "Vasquez",
+      "email": "polanco@gmail.com",
+      "phone": "3042223331",
+      "username": "Polanco_Vasquez",
+      "password": "Polanco19_",
+      "role": "user",
+      "is_active": true,
+      "deleted_at": null
+    }
+  ],
+  "products": []
+}
